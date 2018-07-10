@@ -41,7 +41,7 @@
     }
     .navbar-nav {
         float: none !important;
-        background-color: #e94b4c;
+        background-color: white;
     }
     .navbar-nav>li {
         float: none;

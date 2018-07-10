@@ -50,7 +50,7 @@ body {
     font-size: 16px;
     font-weight: 400;
     background-color: #fff;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Futura', sans-serif;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -61,7 +61,7 @@ h4,
 h5,
 h6 {
     font-weight: 700;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Futura', sans-serif;
 }
 
 a,
@@ -516,6 +516,7 @@ textarea.form-control {
 
 .navbar.navbar-fixed-top {
     margin: 0;
+    background-color: white;
 }
 
 .navbar-default .navbar-nav li a {
